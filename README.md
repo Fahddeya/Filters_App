@@ -40,7 +40,7 @@ The application supports the following filters and operations:
 
 ## Project Structure
 
-- `CS112_A3_Part2B_S16_20230287_20230613_20230802.cpp` - Main program file
+- `Main.cpp` - Main program file
 - `Image_Class.h` - Image processing class implementation
 - Individual filter files (filter1.cpp through filter17.cpp)
 - Sample images for testing
@@ -50,7 +50,7 @@ The application supports the following filters and operations:
 1. **Compile the Program**
 
    ```bash
-   g++ CS112_A3_Part2B_S16_20230287_20230613_20230802.cpp -o image_processor
+   g++ Main.cpp -o image_processor
    ```
 
 2. **Run the Program**
@@ -68,19 +68,9 @@ The application supports the following filters and operations:
 
 ## Authors
 
-- Fahd Deya El-din Salah El-din Ahmed (20230287)
+  - Fahd Deya El-din Salah El-din Ahmed (20230287)
+  - Email: fahddyaa5454@gmail.com
 
-  - Email: fahd.cu2004@gmail.com
-  - Contributions: Filters 1, 7, 10, 17 and menus
-
-- Mohamed Ashraf Mahmoud Ahmed (20230613)
-
-  - Email: mohamedashraf1304@gmail.com
-  - Contributions: Filters 2, 4, 8, 11, 13
-
-- Nesrain Sadeq Mohammed (20230802)
-  - Email: nesreensadiq347@gmail.com
-  - Contributions: Filters 3, 5, 6, 9, 12, 16
 
 ## Example Usage
 
