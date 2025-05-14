@@ -1,20 +1,11 @@
-// File name: CS112_A3_Part2B_S16_20230287_20230613_20230802.cpp
-
 // Purpose: this program is an image editor which apply some filters to imaage you choose then ask the user
 // if he want to save the edited image over the old one or to create a new file taking its name from the user
 // and spacify the extension of the file from the user
 // and repeat the process till the user type exit.
 
 // Authers:
-// first: Fahd Deya El-din Salah El-din Ahmed -- S16 -- Email: fahd.cu2004@gmail.com
-// second: Mohamed Ashraf Mahmoud Ahmed -- S16 -- Email: mohamedashraf1304@gmail.com
-// third: Nesrain Sadeq Mohammed -- S16 -- Email: nesreensadiq347@gmail.com
+// Fahd Deya El-din Salah El-din Ahmed ---- Email: fahddyaa545@gmail.com
 
-// first ID: 20230287 -- the 1st, 7th, 10th, and 17th filters and the menus
-// second ID: 20230613 -- the 2nd, 4th, 8th, 11th and 13th filters
-// third ID: 20230802 -- the 3rd, 5th, 6th, 9th, 12th, and 16th filters
-
-// rebo link: https://github.com/Fahddeya/Assignment-3
 
 #include <iostream>
 #include <string>
